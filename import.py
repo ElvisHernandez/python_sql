@@ -1,7 +1,4 @@
 import sys
-from cs50 import SQL
-
-import sys
 import csv
 from cs50 import SQL
 
